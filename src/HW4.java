@@ -43,7 +43,7 @@ static void task0(){
         myQueue.enqueue(4);
         myQueue.enqueue(5);
         myQueue.print();
-        myQueue.deQueue();
+        myQueue.dequeue();
         myQueue.print();
         myQueue.first();
         myQueue.print();

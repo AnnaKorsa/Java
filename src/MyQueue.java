@@ -23,7 +23,7 @@ public class MyQueue {
     }
 
 
-    void deQueue() {
+    void dequeue() {
         if (list.isEmpty()) {
             System.out.println("Очередь пуста!");
         }else {
