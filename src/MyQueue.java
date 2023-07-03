@@ -1,3 +1,5 @@
+// Анна Корсакова, группа:4739
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Random;
